@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Young Serif', serif;
+    margin: 0;
+    padding: 0;
+}
+ol,ul 
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+header
+{
+    display: flex;
+    background-color: rgb(43, 49, 49);
+    justify-content: space-between;
+    align-items: center;
+}
+header a i
+{
+    color: aliceblue;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+header nav ul 
+{
+      display: flex;
+      gap: 2em; 
+}
+header nav ul li a
+{
+    color: aliceblue;
+}
+
+
+

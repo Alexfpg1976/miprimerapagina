@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(209, 203, 194);
+}
+.bienvenido
+{
+    background-color: rgb(142, 176, 206);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+
+}
+h4 
+{
+    margin-bottom: 1rem;
+}
+.seccion1
+{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+.imagen1
+{
+    background-color: aliceblue;
+    display: flex;
+    padding: 3em;
+    width: 22rem;
+    height: 22rem;
+    border-radius: 1rem;
+   
+}
+.parrafo-acerca
+{
+    align-content: center;
+    
+}
+
+.seccion2
+{   
+    background-color: rgb(31, 111, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+    border: 0.5em;    
+}
